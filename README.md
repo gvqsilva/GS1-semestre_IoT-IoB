@@ -185,13 +185,13 @@ space-gesture-control/
 
 ---
 
-## 👨‍🚀 Integrantes do Grupo
+## 👥 Equipe
 
-| Nome | RM |
-|------|----|
-| Integrante 1 | RM XXXXX |
-| Integrante 2 | RM XXXXX |
-| Integrante 3 | RM XXXXX |
+| Aluno | RM |
+|-------|----|
+| Augusto Mendonça | RM 558371 |
+| Gabriel Vasquez | RM 557056 |
+| Gustavo Oliveira | RM 559163 |
 
 ---
 

@@ -4,6 +4,29 @@
 
 ---
 
+## 📋 Índice
+
+1. [Descrição da Solução](#descrição-da-solução)
+2. [Gestos e Comandos](#gestos-e-comandos)
+3. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
+4. [Pipeline de Visão Computacional](#pipeline-de-visão-computacional)
+5. [Funcionalidades Avançadas](#funcionalidades-avançadas)
+   - [SYNC AI Co-Piloto](#sync-ai-co-piloto)
+   - [Autopiloto — Retornar Base](#autopiloto--retornar-base-)
+   - [Scanner Geológico](#scanner-geológico-)
+   - [Relatório de Missão (CSV)](#relatório-de-missão-csv)
+   - [Terreno Procedural](#terreno-procedural)
+   - [Física de Inclinação Dinâmica](#física-de-inclinação-dinâmica)
+6. [Instruções de Execução](#instruções-de-execução)
+   - [Pré-requisitos](#pré-requisitos)
+   - [Instalação](#instalação)
+   - [Controles durante a execução](#controles-durante-a-execução)
+7. [Estrutura do Repositório](#estrutura-do-repositório)
+8. [Equipe](#equipe)
+9. [Demonstração](#demonstração)
+
+---
+
 ## 📡 Descrição da Solução
 
 Sistema de **controle por gestos das mãos** para operação remota do **ROVER-01** em ambientes espaciais extremos.
@@ -129,12 +152,12 @@ Ao encerrar (tecla `Q` ou missão concluída), dois arquivos são gerados automa
 ### Terreno Procedural
 - Mapa lunar de 2000×2000px gerado proceduralmente com ruído, crateras, curvas de nível e grade
 - O rover deixa um rastro laranja no mapa conforme se move
-  
+
 ### Física de Inclinação Dinâmica
 - O radar calcula o "Slope" (Aclive/Declive) a 2 metros de distância do rover.
 - Subidas forçam o motor, consumindo mais bateria e gerando superaquecimento rápido.
 - Descidas ativam aceleração gravitacional e permitem o resfriamento dos rotores.
-  
+
 ---
 
 ## 🚀 Instruções de Execução

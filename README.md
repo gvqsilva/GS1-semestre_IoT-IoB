@@ -380,7 +380,7 @@ A interface gestual desenvolvida para controle espacial tem aplicação direta e
 
 ## 🎥 Demonstração
 
-> Link do vídeo no YouTube: [em breve]
+> Link do vídeo no YouTube: https://youtu.be/l_VyN70yyNs
 
 ---
 
